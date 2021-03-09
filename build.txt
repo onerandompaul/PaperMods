@@ -1,0 +1,3 @@
+displayName = Paper Mods
+author = Paper
+version = 0.1
